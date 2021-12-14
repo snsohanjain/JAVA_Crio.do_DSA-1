@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.ReverseInteger/1.ReverseInteger.iml" filepath="$PROJECT_DIR$/1.ReverseInteger/1.ReverseInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Printing a pyramid pattern/10.Printing a pyramid pattern.iml" filepath="$PROJECT_DIR$/10.Printing a pyramid pattern/10.Printing a pyramid pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.Find given element in an array/11.Find given element in an array.iml" filepath="$PROJECT_DIR$/11.Find given element in an array/11.Find given element in an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.Cyclic rotation of an array/12.Cyclic rotation of an array.iml" filepath="$PROJECT_DIR$/12.Cyclic rotation of an array/12.Cyclic rotation of an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.Print a Diamond Pattern/13.Print a Diamond Pattern.iml" filepath="$PROJECT_DIR$/13.Print a Diamond Pattern/13.Print a Diamond Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Find Element of an Array/2.Find Element of an Array.iml" filepath="$PROJECT_DIR$/2.Find Element of an Array/2.Find Element of an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Find queried elements in an array/2.Find queried elements in an array.iml" filepath="$PROJECT_DIR$/2.Find queried elements in an array/2.Find queried elements in an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Average height of an Array/3.Average height of an Array.iml" filepath="$PROJECT_DIR$/3.Average height of an Array/3.Average height of an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Capitalise first letter of every world/4.Capitalise first letter of every world.iml" filepath="$PROJECT_DIR$/4.Capitalise first letter of every world/4.Capitalise first letter of every world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Count vowels in a String/5.Count vowels in a String.iml" filepath="$PROJECT_DIR$/5.Count vowels in a String/5.Count vowels in a String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Diagonal Sum Of a Matrix/6.Diagonal Sum Of a Matrix.iml" filepath="$PROJECT_DIR$/6.Diagonal Sum Of a Matrix/6.Diagonal Sum Of a Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Chech if it's Matrix is Magic Square/7.Chech if it's Matrix is Magic Square.iml" filepath="$PROJECT_DIR$/7.Chech if it's Matrix is Magic Square/7.Chech if it's Matrix is Magic Square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.Addition of matrix/8.Addition of matrix.iml" filepath="$PROJECT_DIR$/8.Addition of matrix/8.Addition of matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.Max Element In Array/9.Max Element In Array.iml" filepath="$PROJECT_DIR$/9.Max Element In Array/9.Max Element In Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
+    </modules>
+  </component>
+</project>
