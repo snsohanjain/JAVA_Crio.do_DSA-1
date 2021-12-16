@@ -32,7 +32,8 @@ public class CyclicRotation {
     // TODO: Implement this method
     static int[] cyclicRotation(int n, int[] arr, int k) {
 
-      for (int i = 0; i <=k; i++){
+
+      for (int i = 0; i <=k; ++i){
           int j ,first;
           // store the first element of an array
           first = arr[0];
