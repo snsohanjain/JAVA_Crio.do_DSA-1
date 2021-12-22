@@ -1,29 +1,28 @@
 package com.codewithsohan;
 
 
+import java.util.Scanner;
+
 public class Main {
+    public static void main(String args []){
+        Scanner scanner = new Scanner(System.in);
+        long n = scanner.nextLong();
 
-    public static int findElement(int arr[] , int n , int key){
+        long ans =  factorial(n);
+        System.out.println(ans);
 
-        for (int i = 0; i < n; i++){
-            if (arr[i] == key )
-                return  i;
-        }
-        return -1;
     }
 
-    public static void main(String[] args) {
-        int arr[] = { 12, 34, 10, 6, 40};
-        int n = arr.length;
 
-        // using the last element search
-        int key = 40;
-        int position = findElement(arr,n,key);
-        if (position == -1){
-            System.out.println("Element was not found");
-        }else {
-            System.out.println("Element found at a position of " + (position + 1));
-        }
+    static long factorial(long n)
+    {
+        long M = 1000000007;
+        long f = 1;
 
+        for (int i = 1; i <= n; i++)
+            f = f * i;  // WRONG APPROACH as
+        // f may exceed (2^64 - 1)
+
+        return f % M;
     }
 }
