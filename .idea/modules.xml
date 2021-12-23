@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/0.1.Array/0.1.Array.iml" filepath="$PROJECT_DIR$/0.1.Array/0.1.Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.2.ArrayList/0.2.ArrayList.iml" filepath="$PROJECT_DIR$/0.2.ArrayList/0.2.ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.ReverseInteger/1.ReverseInteger.iml" filepath="$PROJECT_DIR$/1.ReverseInteger/1.ReverseInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/10.Printing a pyramid pattern/10.Printing a pyramid pattern.iml" filepath="$PROJECT_DIR$/10.Printing a pyramid pattern/10.Printing a pyramid pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/11.Find given element in an array/11.Find given element in an array.iml" filepath="$PROJECT_DIR$/11.Find given element in an array/11.Find given element in an array.iml" />
@@ -24,13 +26,17 @@
       <module fileurl="file://$PROJECT_DIR$/26.Convert number from decimal to given base/26.Convert number from decimal to given base.iml" filepath="$PROJECT_DIR$/26.Convert number from decimal to given base/26.Convert number from decimal to given base.iml" />
       <module fileurl="file://$PROJECT_DIR$/27.Number of primes in a given range/27.Number of primes in a given range.iml" filepath="$PROJECT_DIR$/27.Number of primes in a given range/27.Number of primes in a given range.iml" />
       <module fileurl="file://$PROJECT_DIR$/28.Find the exponent modulo n/28.Find the exponent modulo n.iml" filepath="$PROJECT_DIR$/28.Find the exponent modulo n/28.Find the exponent modulo n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.Sorting an Array/29.Sorting an Array.iml" filepath="$PROJECT_DIR$/29.Sorting an Array/29.Sorting an Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.Average height of an Array/3.Average height of an Array.iml" filepath="$PROJECT_DIR$/3.Average height of an Array/3.Average height of an Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30.Perform Repated subtractions in array/30.Perform Repated subtractions in array.iml" filepath="$PROJECT_DIR$/30.Perform Repated subtractions in array/30.Perform Repated subtractions in array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.Most repated temperature in an array/31.Most repated temperature in an array.iml" filepath="$PROJECT_DIR$/31.Most repated temperature in an array/31.Most repated temperature in an array.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.Capitalise first letter of every world/4.Capitalise first letter of every world.iml" filepath="$PROJECT_DIR$/4.Capitalise first letter of every world/4.Capitalise first letter of every world.iml" />
       <module fileurl="file://$PROJECT_DIR$/5.Count vowels in a String/5.Count vowels in a String.iml" filepath="$PROJECT_DIR$/5.Count vowels in a String/5.Count vowels in a String.iml" />
       <module fileurl="file://$PROJECT_DIR$/6.Diagonal Sum Of a Matrix/6.Diagonal Sum Of a Matrix.iml" filepath="$PROJECT_DIR$/6.Diagonal Sum Of a Matrix/6.Diagonal Sum Of a Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/7.Chech if it's Matrix is Magic Square/7.Chech if it's Matrix is Magic Square.iml" filepath="$PROJECT_DIR$/7.Chech if it's Matrix is Magic Square/7.Chech if it's Matrix is Magic Square.iml" />
       <module fileurl="file://$PROJECT_DIR$/8.Addition of matrix/8.Addition of matrix.iml" filepath="$PROJECT_DIR$/8.Addition of matrix/8.Addition of matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/9.Max Element In Array/9.Max Element In Array.iml" filepath="$PROJECT_DIR$/9.Max Element In Array/9.Max Element In Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
     </modules>
   </component>
