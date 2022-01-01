@@ -1,5 +1,6 @@
 package com.sohan;
 
+import java.util.PriorityQueue;
 import java.util.Scanner;
 
 public class ReduceArray {
@@ -21,6 +22,27 @@ public class ReduceArray {
 
     // TODO: Implement this method
     static int reduceArray(int n, int a[]){
-        
+
+        PriorityQueue<Integer>maxHeap = new PriorityQueue<>();
+
+        for(int i =0; i < a.length;i++)
+            maxHeap.add(a[i]);
+
+        int count = a.length-1;
+
+        while (a.length-1)
+        {
+            int largest = maxHeap.peek();
+            maxHeap.remove();
+            int secondLargest = maxHeap.peek();
+            maxHeap.remove();
+
+            int d = largest-secondLargest;
+
+            maxHeap.add(d);
+        }
+        return maxHeap.peek();
+
+
     }
 }
